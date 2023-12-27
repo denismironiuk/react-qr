@@ -1,4 +1,4 @@
-import NavBar from "../components/NavBar";
+import NavBar from "./NavBar";
 import Hero from "./Hero";
 import Button from "./Button";
 import Generate from "./Generate";

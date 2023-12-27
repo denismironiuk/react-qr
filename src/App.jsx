@@ -5,7 +5,7 @@ function App() {
       <NavBar />
       <Hero />
       <Generate />
-      <Contact /> //
+      <Contact /> 
       <FAQ />
       <Footer />
     </>

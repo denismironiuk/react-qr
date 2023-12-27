@@ -3,7 +3,6 @@ import { useRef, useEffect } from "react";
 import { motion, useInView, useAnimation, useScroll } from "framer-motion";
 
 import { Button } from "../components";
-import QRcode from "../assets/qrcode2.png";
 import HeroImage from "../assets/hero-image.png";
 
 const Hero = () => {

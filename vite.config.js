@@ -7,6 +7,6 @@ export default defineConfig({
   base: "/react-qr/",
   plugins: [react(),],
   build: {
-    commonjsOptions: { transformMixedEsModules: true } // Change
+    commonjsOptions: { transformMixedEsModules: true } 
   }
 });
